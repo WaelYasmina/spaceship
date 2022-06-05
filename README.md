@@ -8,3 +8,7 @@
 4. Run Parcel by typing this command: npm parcel ./src/index.html
 5. Ctrl + left click on the address generated in the command line. Or open your browser and copy paste this address http://localhost:1234
 6. Have fun! :D
+
+Model from:
+
+https://quaternius.com/packs/ultimatespaceships.html
